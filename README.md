@@ -1,11 +1,16 @@
-### Hi there 👋
+NelysT/README.md 👋
 
-<!--
-**NelysT/NelysT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack web Developer 
 
-Here are some ideas to get you started:
+TECHNOLOGY
+- React | Java Script | Python | Flask | MySQL | HTML | CSS | Bootstrap | API'S
 
-- 🔭 I’m currently working on ...
+PROJECTS
+Palante https://sample-service-name-1pji.onrender.com/
+- Aplicación web/móvil para personas que necesitan acompañamiento psicológico.
+Los usuarios pueden sacar citas con especialistas, unirse a eventos y acceder a distintos recursos psicológicos.
+
+- 🔭 I’m currently working on Pa'lante
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
