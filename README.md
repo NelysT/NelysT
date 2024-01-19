@@ -1,21 +1,10 @@
-NelysT/README.md 👋
+Hi 👋
 
-Full Stack web Developer 
-
-TECHNOLOGY
-- React | Java Script | Python | Flask | MySQL | HTML | CSS | Bootstrap | API'S
-
-PROJECTS
-Palante https://sample-service-name-1pji.onrender.com/
-- Aplicación web/móvil para personas que necesitan acompañamiento psicológico.
-Los usuarios pueden sacar citas con especialistas, unirse a eventos y acceder a distintos recursos psicológicos.
-
-- 🔭 I’m currently working on Pa'lante
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const aboutMe = {
+   pronouns: "She" | "her",
+   technologies: {
+      frontEnd: ["html", "css", "bootstrap", "javascript", "react", "jest", "flux"],
+        backEnd: ["phyton", "sql", "sqlAlchemy","flask", "postman", API'S],
+        }
+   currentOccupation: ["last year student, open for job opportunities"],
+   };
