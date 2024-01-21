@@ -1,10 +1,1 @@
-Hi 👋
-
-const aboutMe = {
-   pronouns: "She" | "her",
-   technologies: {
-      frontEnd: ["html", "css", "bootstrap", "javascript", "react", "jest", "flux"],
-        backEnd: ["phyton", "sql", "sqlAlchemy","flask", "postman", API'S],
-        }
-   currentOccupation: ["last year student, open for job opportunities"],
-   };
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Juan José Ruiz </h2>
